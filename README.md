@@ -3,6 +3,7 @@
 **Senior Front-End Developer | React / Next.js / React Native Specialist**
 
 📍 Based in Sharjah, UAE 
+
 📧 suyogsanjeevanpp@gmail.com | 📞 +971 543557150  
 🔗 [LinkedIn](https://linkedin.com/in/suyog-sanjeevan/) • 🔗 [Portfolio](https://github.com/SuyogPP)
 
