@@ -16,7 +16,7 @@ I'm a passionate front-end and mobile app developer with over 4 years of experie
 - ⚛️ React.js, Next.js, and React Native
 - 🎨 UI/UX design using Tailwind CSS, Material UI, and custom CSS
 - 🛠️ Backend integration with Node.js and Microsoft SQL Server
-- ☁️ Azure, Firebase, and IIS hosting
+- ☁️  Firebase and IIS hosting
 - 🔐 SDK integrations for biometrics, access control, and geofencing
 
 I'm currently working as a Senior Front-End Developer at **Al Asas IT**, where I lead the development of web and mobile apps for enterprise clients.
