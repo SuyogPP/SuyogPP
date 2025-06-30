@@ -31,5 +31,4 @@ Frameworks:  React.js, Next.js, React Native, Node.js, Express.js
 UI:          Tailwind CSS, Material UI (MUI), Styled Components  
 Database:    Microsoft SQL Server, Firebase Realtime DB  
 Tools:       Git, Azure DevOps, IIS, Postman, Figma, VS Code, Expo  
-DevOps:      GitHub Actions, Azure Pipelines  
 Testing:     Jest, React Testing Library
