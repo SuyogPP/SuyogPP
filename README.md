@@ -5,7 +5,7 @@
 📍 Currently in Sharjah, UAE 
 
 📧 suyogsanjeevanpp@gmail.com | 📞 +971 543557150  
-🔗 [LinkedIn](https://linkedin.com/in/suyog-sanjeevan/) • 🔗 [Portfolio](https://syg-portfolio-zeta.vercel.app)
+🔗 [LinkedIn](https://linkedin.com/in/suyog-sanjeevan/) • 🔗 [Portfolio](https://suyog-pp.vercel.app)
 
 ---
 
